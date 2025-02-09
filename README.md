@@ -1,2 +1,2 @@
-# homework_adv_python_2024-2025
+# mipt_advanced_python_2024
 There will be my homework
